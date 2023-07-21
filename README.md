@@ -1,2 +1,3 @@
-# Decesion-Tree-Implementation
-Implementation of Decision Trees using Iris Dataset and saving the decision tree in a PDF file.
+# CES : Customer Effort Score
+________________________________
+Customer Effort Score is the amount of effort put by the customer to resolve his issue.
